@@ -17,6 +17,7 @@ export default function Hero({}: Props) {
       <img 
       className='relative rounded-full h-32 mx-auto object-cover'
       src="https://avatars.githubusercontent.com/u/78426693?v=4" alt="image" />
+
       <div className='z-20'>
         <h2 className='text-sm uppercase text-gray-500 pb-2 tracking-[15px]'>Web Developer</h2>
       <h1 className='text-5xl lg:text-6xl font-semibold px-10'>
